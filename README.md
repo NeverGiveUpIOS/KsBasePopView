@@ -1,2 +1,3 @@
-# KsBasePopView
-全能弹窗， 继承KsBasePopView即可直接使用， 多种弹窗方式
+# 开发常用功能封装
+1. 全能弹窗， 继承KsBasePopView即可直接使用， 多种弹窗方式
+2. Swift和oc瀑布流封装， 自适应高度动态布局
