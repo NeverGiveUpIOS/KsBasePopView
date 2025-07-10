@@ -13,16 +13,6 @@ enum AlertContainerType {
     case window
 }
 
-/// Enum defining the possible positions for the popup view
-public enum KsBasePopViewPositions{
-    case center
-    case down
-    case up
-    case left
-    case right
-    
-}
-
 class KsBasePopView: UIView {
     
     /// 点击是否消失
